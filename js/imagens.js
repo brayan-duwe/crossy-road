@@ -1,10 +1,7 @@
-// imagens
 
 let imagemFundo;
 let imagemAtor1;
 let imagemCarro1;
-
-// sons
 
 let somColisao;
 let somTrilha;

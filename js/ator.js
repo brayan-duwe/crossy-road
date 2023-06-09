@@ -18,12 +18,7 @@ function movimentaAtor(){
         }
 
   }
- /* if(keyIsDown(LEFT_ARROW)){
-    xAtor -= 3;
-  }
-    if(keyIsDown(RIGHT_ARROW)){
-    xAtor += 3;
-  } */
+
 }
 
 function voltaAtorPosicaoInicial(){
